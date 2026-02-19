@@ -1,0 +1,33 @@
+.form-builder {
+  padding: 0;
+}
+
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.section-header h1 {
+  margin: 0;
+  font-size: 2rem;
+}
+
+.section-header p {
+  margin: 0.5rem 0 0 0;
+  color: #6b7280;
+}
+
+.placeholder {
+  background: white;
+  border-radius: 1rem;
+  padding: 4rem;
+  text-align: center;
+  border: 2px dashed #e5e7eb;
+}
+
+.placeholder p {
+  color: #6b7280;
+  font-size: 1.125rem;
+}
